@@ -6,7 +6,6 @@ module.exports = {
   entry: [
     `webpack/hot/only-dev-server`,
     `babel-polyfill`,
-    `react-tap-event-plugin`,
     `./src/app.jsx`
   ],
 

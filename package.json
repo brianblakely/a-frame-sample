@@ -35,10 +35,7 @@
     "aframe": "mozvr/aframe#dev",
     "babel-polyfill": "^6.3.14",
     "babel-runtime": "^6.3.19",
-    "koa": "^1.1.2",
-    "material-ui": "^0.14.4",
     "react": "^0.14.7",
-    "react-dom": "^0.14.7",
-    "react-tap-event-plugin": "^0.2.2"
+    "react-dom": "^0.14.7"
   }
 }
